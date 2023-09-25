@@ -108,6 +108,7 @@ Confluence Inter; 80,893,546,874,536
 OA Inter; 88
 DFP Intra; 6,136,67
 DFP Intra; 2,87,45
+DFP Inter; 40,887,543
 DFP Inter; 40,868,533
 Confluence Intra; 3,164,86,128,66
 Confluence Inter; 50,520,287,514,284
@@ -168,7 +169,9 @@ DFP Inter; 26,873,476
 Confluence Intra; 7,167,90,187,99
 Confluence Inter; 20,245,136,246,136
 OA Inter; 7
+DFP Intra; 3,167,90
 DFP Intra; 4,187,99
+DFP Inter; 10,246,136
 DFP Inter; 10,246,136
 Confluence Intra; 12,261,131,60,29
 Confluence Inter; 37,365,196,348,179
@@ -201,7 +204,9 @@ DFP Inter; 12,411,223
 Confluence Intra; 3,98,55,19,10
 Confluence Inter; 68,984,578,975,572
 OA Inter; 3
+DFP Intra; 2,98,55
 DFP Intra; 1,19,10
+DFP Inter; 34,980,578
 DFP Inter; 34,971,572
 Confluence Intra; 29,394,191,369,184
 Confluence Inter; 259,2755,1639,2749,1635
@@ -221,7 +226,9 @@ Confluence Intra; 8,175,90,187,99
 Confluence Inter; 54,545,305,556,311
 OA Inter; 3
 DFP Intra; 4,175,90
+DFP Intra; 4,187,99
 DFP Inter; 27,545,305
+DFP Inter; 27,556,311
 Confluence Intra; 10,322,170,198,107
 Confluence Inter; 145,2222,1313,2209,1305
 OA Inter; 571
@@ -235,8 +242,9 @@ OA Inter; 23
 DFP Intra; 3,181,98
 DFP Intra; 3,185,95
 DFP Inter; 27,974,574
+DFP Inter; 27,972,572
 Confluence Intra; 6,250,125,271,134
-Confluence Inter; 138,2116,1200,2115,1200
+Confluence Inter; 138,2116,1200,2116,1200
 OA Inter; 28
 DFP Intra; 2,250,125
 DFP Intra; 4,277,137
@@ -487,7 +495,7 @@ DFP Intra; 31,936,512
 DFP Intra; 3,189,98
 DFP Inter; 80,1976,1172
 DFP Inter; 66,1453,868
-Confluence Intra; 3,354,189,360,192
+Confluence Intra; 3,354,189,361,192
 Confluence Inter; 54,976,549,978,550
 OA Inter; 86
 DFP Intra; 1,350,189
@@ -495,7 +503,7 @@ DFP Intra; 2,357,192
 DFP Inter; 27,970,548
 DFP Inter; 27,972,549
 Confluence Intra; 70,415,194,1768,927
-Confluence Inter; 430,6200,3581,7139,4138
+Confluence Inter; 430,6201,3581,7139,4138
 OA Inter; 86
 DFP Intra; 11,415,194
 DFP Intra; 59,1768,927
